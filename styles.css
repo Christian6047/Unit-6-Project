@@ -1,0 +1,79 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+h2{
+color: black;
+}
+.title {
+    font-size: 50px;
+    background-color: red;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    color: black;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start {
+    height: 40px;
+}
+.Part-Two-No {
+  display: none;
+}
+
+
+.Part-Two-Yes {
+    display: none;
+
+}
+
+
+.Part-Two-No {
+    display: none;
+
+}
+
+.speed-yes{
+  display: none;
+}
+
+.speed-no{
+  display: none;
+}
+.risk-no{
+  display: none;
+}
+
+.risk-yes{
+  display: none;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
